@@ -13,4 +13,6 @@ Wepage URL: https://sanitydemo.vercel.app/
 ## Useful URL's
 
 [Next JS lecture series](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
-[Sanity crash course]https://www.youtube.com/watch?v=32RP-sG1njE)
+
+
+[Sanity crash course](https://www.youtube.com/watch?v=32RP-sG1njE)
