@@ -48,6 +48,4 @@
 npm run export
 # exports your site as static files in /out
 ```
-# NextSanityDemo
-# NextSanityDemo
 # sanity
