@@ -50,4 +50,4 @@ npm run export
 ```
 # sanity
 
-Wepage URL: https://sanitydemo.vercel.app/
+Demo Wepage: https://sanitydemo.vercel.app/
