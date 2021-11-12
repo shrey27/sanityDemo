@@ -49,3 +49,5 @@ npm run export
 # exports your site as static files in /out
 ```
 # sanity
+
+Wepage URL: https://sanitydemo.vercel.app/
